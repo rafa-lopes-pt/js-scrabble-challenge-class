@@ -9,7 +9,6 @@
   },
   "author": "dearshrewdwit@gmail.com",
   "license": "ISC",
-  "prettier": "@boolean-uk/boolean-prettier-config",
   "devDependencies": {
     "@boolean-uk/boolean-prettier-config": "^1.0.2",
     "eslint": "^7.32.0",
